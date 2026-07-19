@@ -7,7 +7,11 @@
   把任何抽象观点，变成三秒能懂、机智克制的红黑社论场景。
 </p>
 
-<p align="center"><sub>视觉寓言 · 钢笔墨水 · 朱红 #E34234 · 无标题也能读懂</sub></p>
+<p align="center">
+  <img src="./assets/badge-style.svg" height="24" alt="风格：社论插图">
+  <img src="./assets/badge-method.svg" height="24" alt="方法：寓言优先">
+  <img src="./assets/badge-language.svg" height="24" alt="语言：英文与中文">
+</p>
 
 <p align="center">
   <a href="./assets/style-anchor-overkill.png"><img src="./assets/style-anchor-overkill.png" width="49%" alt="一门巨大的高射炮瞄准蚊子，旁边的人拿着普通苍蝇拍"></a>
@@ -145,6 +149,9 @@ git clone https://github.com/derrickxu1220/cartoon-synth.git .agents/skills/cart
 |-- agents/
 |   +-- openai.yaml
 |-- assets/
+|   |-- badge-language.svg
+|   |-- badge-method.svg
+|   |-- badge-style.svg
 |   |-- style-anchor-action.png
 |   +-- style-anchor-overkill.png
 +-- references/

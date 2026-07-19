@@ -7,7 +7,11 @@
   Turn any abstract idea into a clear, witty red-black scene that reads in three seconds.
 </p>
 
-<p align="center"><sub>VISUAL FABLES · PEN &amp; INK · VERMILLION #E34234 · CAPTION-FREE CLARITY</sub></p>
+<p align="center">
+  <img src="./assets/badge-style.svg" height="24" alt="Style: Editorial">
+  <img src="./assets/badge-method.svg" height="24" alt="Method: Fable First">
+  <img src="./assets/badge-language.svg" height="24" alt="Languages: English and Chinese">
+</p>
 
 <p align="center">
   <a href="./assets/style-anchor-overkill.png"><img src="./assets/style-anchor-overkill.png" width="49%" alt="An oversized cannon aimed at a mosquito while a calm observer holds a flyswatter"></a>
@@ -145,6 +149,9 @@ then wait for approval and generate them in batches of two or three.
 |-- agents/
 |   +-- openai.yaml
 |-- assets/
+|   |-- badge-language.svg
+|   |-- badge-method.svg
+|   |-- badge-style.svg
 |   |-- style-anchor-action.png
 |   +-- style-anchor-overkill.png
 +-- references/
