@@ -1,39 +1,23 @@
-<div align="center"><a name="readme-top"></a>
+<p align="center"><a name="readme-top"></a><strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a></p>
 
-**English** · [简体中文](./README.zh-CN.md)
+<h1 align="center">CartoonSynth</h1>
 
-# CartoonSynth
-
-### A New Yorker-inspired AI illustration skill for editorial visual fables
-
-**Turn any abstract idea into a clear, witty red-black scene that reads in three seconds.**
-
-<p>
-  <img src="https://img.shields.io/badge/AI-Illustration-111111?style=flat-square" alt="AI Illustration">
-  <img src="https://img.shields.io/badge/Workflow-Fable_First-E34234?style=flat-square" alt="Fable First">
-  <img src="https://img.shields.io/badge/Style-Pen_%26_Ink-E34234?style=flat-square" alt="Pen and Ink">
-  <img src="https://img.shields.io/badge/Languages-EN_%7C_ZH-f2f2f2?style=flat-square" alt="English and Chinese">
+<p align="center">
+  <strong>A New Yorker-inspired AI illustration skill for editorial visual fables.</strong><br>
+  Turn any abstract idea into a clear, witty red-black scene that reads in three seconds.
 </p>
 
-</div>
+<p align="center"><sub>VISUAL FABLES · PEN &amp; INK · VERMILLION #E34234 · CAPTION-FREE CLARITY</sub></p>
 
-<table>
-  <tr>
-    <td align="center"><strong>Overbuilt solution</strong></td>
-    <td align="center"><strong>Measurement without action</strong></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/style-anchor-overkill.png" alt="An oversized cannon aimed at a mosquito while a calm observer holds a flyswatter"></td>
-    <td width="50%"><img src="assets/style-anchor-action.png" alt="A patient hugs a thermometer while medicine remains unused"></td>
-  </tr>
-  <tr>
-    <td>An enormous method attacks a tiny problem.</td>
-    <td>The problem is measured perfectly and left untreated.</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="./assets/style-anchor-overkill.png"><img src="./assets/style-anchor-overkill.png" width="49%" alt="An oversized cannon aimed at a mosquito while a calm observer holds a flyswatter"></a>
+  <a href="./assets/style-anchor-action.png"><img src="./assets/style-anchor-action.png" width="49%" alt="A patient hugs a thermometer while medicine remains unused"></a>
+</p>
+
+<p align="center"><sub><strong>Overbuilt solution</strong>: an enormous method attacks a tiny problem. · <strong>Measurement without action</strong>: the problem is measured perfectly and left untreated.</sub></p>
 
 > [!IMPORTANT]
-> CartoonSynth is not a data-analysis prompt pack. It is a general editorial illustration workflow for ideas about everyday life, relationships, work, business, technology, AI, culture, society, education, creativity, and data.
+> CartoonSynth is a general editorial illustration workflow for everyday life, relationships, work, business, technology, AI, culture, society, education, creativity, data, and any idea with a visible human contradiction.
 
 ```mermaid
 flowchart LR
