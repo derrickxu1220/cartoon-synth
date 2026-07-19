@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="24" viewBox="0 0 158 24" role="img" aria-label="Style: Editorial">
+  <defs>
+    <clipPath id="rounded-style"><rect width="158" height="24" rx="4"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded-style)">
+    <rect width="50" height="24" fill="#24292f"/>
+    <rect x="50" width="108" height="24" fill="#111111"/>
+  </g>
+  <rect x="0.5" y="0.5" width="157" height="23" rx="3.5" fill="none" stroke="#d0d7de"/>
+  <g fill="#ffffff" font-family="Verdana, Arial, sans-serif" font-size="10" font-weight="600" text-anchor="middle">
+    <text x="25" y="16">STYLE</text>
+    <text x="104" y="16">EDITORIAL</text>
+  </g>
+</svg>
