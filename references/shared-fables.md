@@ -17,16 +17,16 @@ Prefer the earliest option that preserves the exact claim.
 
 ### Surface vs. hidden structure
 
-- **Tip of the iceberg**: one person celebrates the small visible top while the analyst inspects the large submerged base.
+- **Tip of the iceberg**: one person celebrates the small visible top while a skeptical observer inspects the large submerged base.
   - Best for: critical reasoning, hidden assumptions, incomplete visibility.
   - Drift risk: may imply only "look deeper" rather than compare competing arguments.
 
-- **Inspect the foundation**: a polished facade stands on improvised supports that the analyst checks from behind.
+- **Inspect the foundation**: a polished facade stands on improvised supports that a second person checks from behind.
   - Best for: fragile evidence, attractive conclusions with weak support.
 
 ### Method vs. problem
 
-- **Anti-aircraft gun for a mosquito**: an elaborate weapon targets one household insect while the analyst holds a flyswatter.
+- **Anti-aircraft gun for a mosquito**: an elaborate weapon targets one household insect while a calm bystander holds a flyswatter.
   - Best for: over-engineering, method worship, wrong problem-method fit.
   - Drift risk: emphasizes overkill more than question selection.
 
@@ -46,11 +46,11 @@ Prefer the earliest option that preserves the exact claim.
 
 ### Output vs. capability or input
 
-- **Give a fishing rod instead of another fish**: a person asks with an empty plate; the analyst hands over a rod.
+- **Give a fishing rod instead of another fish**: a person asks with an empty plate; the protagonist hands over a rod.
   - Best for: repeated output versus reusable capability.
   - Drift risk: can change "give useful thought input" into "teach self-service." State the possible drift.
 
-- **Ingredients instead of plated dishes**: one person demands more finished plates while the analyst improves what goes into the pot.
+- **Ingredients instead of plated dishes**: one person demands more finished plates while a cook improves what goes into the pot.
   - Best for: upstream input versus downstream production.
 
 ### Evidence before conclusion
@@ -63,22 +63,22 @@ Prefer the earliest option that preserves the exact claim.
 
 ### Correlation vs. causation
 
-- **Wind up the rooster to bring the sunrise**: a manager vigorously winds a giant mechanical rooster, expecting it to make the sun rise sooner; the analyst points to dawn already arriving on its own.
+- **Wind up the rooster to bring the sunrise**: a manager vigorously winds a giant mechanical rooster, expecting it to make the sun rise sooner; a skeptical observer points to dawn already arriving on its own.
   - Best for: correlation mistaken for causation, post-hoc reasoning, confusing a signal with a driver.
   - Drift risk: do not frame it as a forecasting error. The absurd action must be an attempt to cause the correlated outcome.
   - Red role: use vermillion on the wind-up key or the manager's tie, never as an unexplained chart dot.
 
 ### Problem-led collection
 
-- **Measure the lock before cutting the key**: the analyst studies the keyhole while someone else dumps random keys.
+- **Measure the lock before cutting the key**: a locksmith studies the keyhole while someone else dumps random keys.
   - Best for: collect data for the question, not questions for available data.
 
-- **Measure before tailoring**: one person cuts cloth first while the analyst measures the actual body.
+- **Measure before tailoring**: one person cuts cloth first while a tailor measures the actual body.
   - Best for: data collection designed around the real case.
 
 ### Complexity
 
-- **Comb a tangled knot**: a calm analyst separates a real knot instead of adding another machine.
+- **Comb a tangled knot**: a calm protagonist separates a real knot instead of adding another machine.
   - Best for: respect real complexity without manufacturing more.
 
 - **Untangle one strand at a time**: a visible path emerges from a dense but finite tangle.
@@ -86,7 +86,7 @@ Prefer the earliest option that preserves the exact claim.
 
 ### Limits of analysis
 
-- **Taste the soup**: the analyst measures the pot while an experienced cook tastes and reaches for salt.
+- **Taste the soup**: one person measures the pot while an experienced cook tastes and reaches for salt.
   - Best for: tacit knowledge, lived experience, open-mindedness.
 
 - **Measure a flower but smell it too**: instruments capture shape, not fragrance.

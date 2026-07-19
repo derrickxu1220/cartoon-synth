@@ -13,7 +13,7 @@ Read this before final prompts or image generation.
 
 ## Red Contract
 
-- Default to one red area: the recurring analyst's sweater.
+- Default to one red area: the protagonist's garment or one causally important focal prop.
 - Red must not carry an abstract meaning the scene cannot express in black and white.
 - A second red object is allowed only when it is concrete, recognizable, causally important, and approved.
 - Reserve red data points for genuine outlier or anomaly topics.
@@ -37,7 +37,8 @@ Read this before final prompts or image generation.
 
 ## Series Continuity
 
-- Reuse the same short-haired analyst, simple face, red sweater, and black trousers.
+- Choose one protagonist design for the series and reuse its face, silhouette, and red garment.
+- Match the role to the material: ordinary person, worker, manager, creator, teacher, technologist, citizen, analyst, or another natural participant.
 - Keep aspect ratio, red placement, line density, and negative-space target stable.
 - Vary secondary characters and metaphor families.
 - Use one accepted anchor per batch.
@@ -53,9 +54,19 @@ Before accepting an image:
 - confirm no symbol needs a legend
 - remove any object that does not strengthen the joke
 
+## Subject Range
+
+- everyday life and relationships
+- workplace, business, institutions, and organizations
+- technology, AI, products, and automation
+- culture, society, education, and creative work
+- data, evidence, metrics, and decision-making
+
+The data analyst is an available recurring character, not the universal default.
+
 ## User's Preferred Direction
 
-- thoughtful analyst at work or inside an absurd system
+- a thoughtful protagonist at work, at home, or inside an absurd system
 - clean white background
 - relaxed magazine-cartoon elegance
 - visible but purposeful vermillion red

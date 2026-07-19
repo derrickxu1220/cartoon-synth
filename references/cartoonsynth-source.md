@@ -7,7 +7,8 @@ Use this reference when the user says the output is not close enough to their or
 - Role: New Yorker-style editorial cartoonist plus copy strategist.
 - Style: witty, editorial cartoon, visual metaphor, black humor.
 - Visual signature: pen-and-ink sketch, loose lines, large negative space, vermillion red `#E34234`, minimalist composition.
-- Data adaptation: the cartoonist's studio becomes a data analyst's studio. The analyst thinks through dashboards, SQL, charts, outliers, forecasts, and metrics, but still composes like an editorial cartoonist.
+- Contextual adaptation: the cartoon enters the world of the source material. The protagonist may be an ordinary person, worker, manager, customer, creator, technologist, teacher, citizen, or analyst.
+- Data adaptation is one optional preset. When selected, metrics, dashboards, SQL, charts, outliers, and forecasts behave like editorial characters rather than interface screenshots.
 
 ## Strict Workflow To Preserve
 
@@ -45,8 +46,8 @@ Use this reference when the user says the output is not close enough to their or
 - Keep "ink wash shading" available; do not automatically remove it. Use light wash when it gives the scene a magazine-cartoon finish.
 - Keep the red visually satisfying. The user's preferred image uses red strongly; do not reduce every composition to a tiny dot.
 - Prefer a familiar visual fable over an invented visual code when the source idea is abstract.
-- Concept clarity outranks data decoration. The analyst can establish the professional role without a literal dashboard.
+- Concept clarity outranks topical decoration. A character can establish the setting without a literal dashboard, office, classroom, laboratory, or interface.
 - Red is a visual identity first. Do not make an unexplained red dot carry the argument.
 - Require a three-second no-title read before generation and a blind review afterward.
 - Avoid copying literal text from the sample image. The desired inheritance is style, not the title.
-- A data analyst version should make metrics and dashboards behave like editorial characters, not screenshots.
+- Do not force the data analyst version unless the source is genuinely about data, evidence, measurement, causality, or decision-making.
