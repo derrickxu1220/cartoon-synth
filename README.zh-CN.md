@@ -1,39 +1,23 @@
-<div align="center"><a name="readme-top"></a>
+<p align="center"><a name="readme-top"></a><a href="./README.md">English</a> · <strong>简体中文</strong></p>
 
-[English](./README.md) · **简体中文**
+<h1 align="center">CartoonSynth</h1>
 
-# CartoonSynth
-
-### 一个创作纽约客插图风视觉寓言的 AI 绘画 skill
-
-**把任何抽象观点，变成三秒能懂、机智克制的红黑社论场景。**
-
-<p>
-  <img src="https://img.shields.io/badge/AI-Illustration-111111?style=flat-square" alt="AI 插图">
-  <img src="https://img.shields.io/badge/Workflow-Fable_First-E34234?style=flat-square" alt="寓言优先">
-  <img src="https://img.shields.io/badge/Style-Pen_%26_Ink-E34234?style=flat-square" alt="钢笔与墨水">
-  <img src="https://img.shields.io/badge/Languages-EN_%7C_ZH-f2f2f2?style=flat-square" alt="中英文">
+<p align="center">
+  <strong>一个创作纽约客插图风视觉寓言的 AI 绘画 skill。</strong><br>
+  把任何抽象观点，变成三秒能懂、机智克制的红黑社论场景。
 </p>
 
-</div>
+<p align="center"><sub>视觉寓言 · 钢笔墨水 · 朱红 #E34234 · 无标题也能读懂</sub></p>
 
-<table>
-  <tr>
-    <td align="center"><strong>过度复杂的解决方案</strong></td>
-    <td align="center"><strong>只测量，不行动</strong></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/style-anchor-overkill.png" alt="一门巨大的高射炮瞄准蚊子，旁边的人拿着普通苍蝇拍"></td>
-    <td width="50%"><img src="assets/style-anchor-action.png" alt="病人抱着温度计，药物却放在一旁没有使用"></td>
-  </tr>
-  <tr>
-    <td>用极其庞大的方法攻击一个极小的问题。</td>
-    <td>把问题测量得无比准确，却没有采取行动。</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="./assets/style-anchor-overkill.png"><img src="./assets/style-anchor-overkill.png" width="49%" alt="一门巨大的高射炮瞄准蚊子，旁边的人拿着普通苍蝇拍"></a>
+  <a href="./assets/style-anchor-action.png"><img src="./assets/style-anchor-action.png" width="49%" alt="病人抱着温度计，药物却放在一旁没有使用"></a>
+</p>
+
+<p align="center"><sub><strong>过度复杂的方案</strong>：用庞大的方法攻击极小的问题。 · <strong>只测量不行动</strong>：把问题测量得无比准确，却没有采取行动。</sub></p>
 
 > [!IMPORTANT]
-> CartoonSynth 不是一个只服务数据分析的 Prompt 包。它是一套通用的社论插图工作流，可以处理日常生活、关系、职场、商业、科技、AI、文化、社会、教育、创作和数据等主题。
+> CartoonSynth 是一套通用的社论插图工作流，可以处理日常生活、关系、职场、商业、科技、AI、文化、社会、教育、创作、数据，以及任何包含鲜明人性矛盾的观点。
 
 ```mermaid
 flowchart LR
