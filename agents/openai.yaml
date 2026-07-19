@@ -1,5 +1,5 @@
 interface:
-  display_name: "Data CartoonSynth"
+  display_name: "CartoonSynth"
   short_description: "Clear red-black editorial visual fables"
   brand_color: "#E34234"
-  default_prompt: "Use $data-cartoon-synth to turn this draft into two clear red-black visual-fable concepts, check no-title clarity and semantic fidelity, and wait for approval before generating images."
+  default_prompt: "Use $cartoon-synth to turn this idea into two clear New Yorker-inspired red-black editorial visual fables, check no-title clarity and semantic fidelity, and wait for approval before generating images."

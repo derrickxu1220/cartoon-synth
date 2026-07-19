@@ -9,7 +9,7 @@ Use this only when the idea is intrinsically about data work or when a familiar 
 - the audience is a data team that recognizes the object instantly
 - the data object can perform one concrete absurd action without labels
 
-Do not add a dashboard merely to make a life fable look analytical. The analyst's behavior can carry the professional identity.
+Do not add a dashboard merely to make a life fable look analytical. Select this lens only when data, evidence, measurement, or modeling is central to the source; the protagonist's behavior can carry the professional identity.
 
 ## Data Tensions
 
